@@ -1,0 +1,20 @@
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.destinos {
+    padding: 50px 0;
+}
+
+.destino {
+    margin-bottom: 20px;
+}
+
+.destino img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
